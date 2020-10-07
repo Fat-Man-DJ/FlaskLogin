@@ -1,2 +1,9 @@
 # FlaskLogin
-Simple Python Flask Login,By FatManDJ
+
+## Usage:
+
+```python
+python main.py
+```
+
+Change Password Or Username in _conf.yml
